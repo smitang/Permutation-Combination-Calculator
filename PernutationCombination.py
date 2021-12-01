@@ -1,5 +1,5 @@
 # Author: Stephen Tang
-# Date: 12/1/ 2021
+# Date: 12/1/2021
 # Description: This program allows the user to calculate permutations and combinations based on 4 given formulas: (1)
 # permutation of selected elements, (2) combinations of counting subsets of a set, and (4) combinations of counting
 # subsets of a set with repetition
