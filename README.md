@@ -3,17 +3,11 @@ This program allows the user to calculate permutations and combinations. The pro
 
 The following formulas are to be incorporated:
   Permutation of Selected Elements: 
-             n!
-          ---------
-           (n - r)!
+        n!/(n - r)!
   Permutations with Sets of Indistinguishable Objects: 
-                      n!
-          ---------------------------
-           [(n1!)(n2!)(n3!)...(nk!)]
+        n!/[(n1!)(n2!)(n3!)...(nk!)]
   Combinations of Counting Subsets of a Set: 
-                n!
-          -----------------
-            [r!(n - r)!]
+        n!/[r!(n - r)!]
   Combinations of Counting Subsets of a Set with Repetition: 
-          r + n - 1 
-              r
+        (r + n - 1) 
+            (r)
